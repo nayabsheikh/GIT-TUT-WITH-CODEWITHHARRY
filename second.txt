@@ -1,0 +1,3 @@
+this is my git repository.
+I also want to be committed
+This Changed now
